@@ -1,0 +1,4 @@
+Apple	Grapefruit	Kiwi Banana		
+Avocado Banana Blackberry Kiwi		
+Banana Apple Kiwi Cherry								
+Cherry Apple Kiwi Avocado		
